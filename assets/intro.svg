@@ -12,7 +12,7 @@
     </style>
   </defs>
 
-  <text x="" y="60" font-family="'Fira Code', monospace" font-size="30px" fill="#55b4d4">
+  <text x="" y="40" font-family="'Fira Code', monospace" font-size="30px" fill="#55b4d4">
     Full Stack Developer | Ruby | Node | React | Java:~$ <tspan class="cursor" fill="#00ff00">█</tspan>
   </text>
 
