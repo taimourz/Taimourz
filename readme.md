@@ -1,5 +1,11 @@
-<h1 align="center">Taimour Afzal</h1>
-<h3 align="center">Full Stack Developer | Ruby on Rails | Node | React | Java</h3>
+<div align="center">
+  <div style="display: flex; flex-direction: column; width: 100%; margin: 0; padding: 0; font-size: 0;">
+    <img src="assets/graph.svg" alt="Terminal Graph" style="width: 100%; display: block; margin: 0; padding: 0;">
+    <div align="center">
+      <img src="assets/intro.svg">
+    </div>
+  </div>
+</div>
 
 <p align="center">
   <img
@@ -15,9 +21,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" align="right" />
-
-## Hackathons & Competitions
+<img src="assets/handc.svg">
 
 1. **2+ years of professional experience** working with **Ruby on Rails**, delivering projects for clients worldwide.  
 
@@ -49,7 +53,12 @@
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourz&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p> -->
 
-<h3 align="center">Connect with me:</h3>
+
+
+
+
+<img src="assets/cwithme.svg">
+
 
 <p align="center">
   <a href="https://linkedin.com/in/taimourafzalkhan" target="_blank">
