@@ -25,39 +25,29 @@
 
 1. **2+ years of professional experience** working with **Ruby on Rails**, delivering projects for clients worldwide.  
 
-2. **NASA Space Apps Challenge 2025** — Participated as part of **Cosmic Pioneers PK Team**.    
+2. **IBM watsonx Orchestrate 2025** - Participated as backend lead  for team **AgentcyGuys**
+    - [Submission](https://lablab.ai/event/agentic-ai-hackathon-ibm-watsonx-orchestrate/agentcyguys/lifeguardian-ai-wellness-orchestrator) 
+
+3. **NASA Space Apps Challenge 2025** — Participated as part of **Cosmic Pioneers PK Team**.    
    -  [Code and Resources](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-pioneers-pk/?tab=project)
 
-3. **Meta Hacker Cup 2025** — Competed in the global coding competition.  
+4. **Meta Hacker Cup 2025** — Competed in the global coding competition.  
    -  [View Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/872128397815225)
 
-4. **United Nations World Innovation Day Hackathon 2023** — Participated as part of **The Mindful Innovators Team**.  
+5. **United Nations World Innovation Day Hackathon 2023** — Participated as part of **The Mindful Innovators Team**.  
    -  Our Project: **SerenitySphere** — an *Oracle APEX-powered AI mental health support platform*  
    -  [Code](https://github.com/Shami1502/Mental-Health/tree/main)  
    -  [Live Demo](https://www.youtube.com/watch?v=LItqe_-UtYI)
 
-
-
-
-
-
 ---
 
-<!-- <p align="center">
-  <a href="https://github.com/taimourz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taimourz&layout=compact&langs_count=10&theme=algolia" />
-  </a>
-</p>
-
-<p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimourz&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</p> -->
-
-
-
-
-
-<img src="assets/cwithme.svg">
+<div align="center">
+  <div style="display: flex; flex-direction: column; width: 100%; margin: 0; padding: 0; font-size: 0;">
+    <div align="center">
+      <img src="assets/cwithme.svg">
+    </div>
+  </div>
+</div>
 
 
 <p align="center">
@@ -74,4 +64,3 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="34" alt="Email">
   </a>&nbsp;&nbsp;	
 </p>
-
