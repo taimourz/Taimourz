@@ -1,4 +1,10 @@
-<h1 align="center">Taimour Afzal</h1>
+
+<div align="center">
+  <div style="display: flex; flex-direction: column; width: 100%; margin: 0; padding: 0; font-size: 0;">
+    <img src="assets/graph.svg" alt="Terminal Graph" style="width: 100%; display: block; margin: 0; padding: 0;">
+  </div>
+</div>
+
 <h3 align="center">Full Stack Developer | Ruby on Rails | Node | React | Java</h3>
 
 <p align="center">
@@ -14,10 +20,14 @@
 </p>
 
 ---
+ 
+<!-- <img src="assets/greetings.svg" align="right" />  -->
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" align="right" />
 
+
 ## Hackathons & Competitions
+
 
 1. **2+ years of professional experience** working with **Ruby on Rails**, delivering projects for clients worldwide.  
 
