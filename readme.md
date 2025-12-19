@@ -21,23 +21,9 @@
 
 ---
 
-<img src="assets/handc.svg">
+<img src="assets/portfolio.svg">
 
-1. **2+ years of professional experience** working with **Ruby on Rails**, delivering projects for clients worldwide.  
-
-2. **IBM watsonx Orchestrate 2025** - Participated as backend lead  for team **AgentcyGuys**
-    - [Submission](https://lablab.ai/event/agentic-ai-hackathon-ibm-watsonx-orchestrate/agentcyguys/lifeguardian-ai-wellness-orchestrator) 
-
-3. **NASA Space Apps Challenge 2025** — Participated as part of **Cosmic Pioneers PK Team**.    
-   -  [Code and Resources](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-pioneers-pk/?tab=project)
-
-4. **Meta Hacker Cup 2025** — Competed in the global coding competition.  
-   -  [View Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2025/certificate/872128397815225)
-
-5. **United Nations World Innovation Day Hackathon 2023** — Participated as part of **The Mindful Innovators Team**.  
-   -  Our Project: **SerenitySphere** — an *Oracle APEX-powered AI mental health support platform*  
-   -  [Code](https://github.com/Shami1502/Mental-Health/tree/main)  
-   -  [Live Demo](https://www.youtube.com/watch?v=LItqe_-UtYI)
+[Visit my Portfolio](https://taimourz.github.io/portfolio)
 
 ---
 
@@ -53,9 +39,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/taimourafzalkhan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ta.i.am.our" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/taimourz" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
