@@ -21,12 +21,6 @@
 
 ---
 
-<img src="assets/portfolio.svg">
-
-[Visit my Portfolio](https://taimourz.github.io/portfolio)
-
----
-
 <div align="center">
   <div style="display: flex; flex-direction: column; width: 100%; margin: 0; padding: 0; font-size: 0;">
     <div align="center">
